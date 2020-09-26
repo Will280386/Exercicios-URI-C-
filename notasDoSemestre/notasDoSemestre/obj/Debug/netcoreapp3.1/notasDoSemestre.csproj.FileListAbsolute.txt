@@ -1,0 +1,13 @@
+C:\Users\filmi\source\repos\notasDoSemestre\notasDoSemestre\bin\Debug\netcoreapp3.1\notasDoSemestre.exe
+C:\Users\filmi\source\repos\notasDoSemestre\notasDoSemestre\bin\Debug\netcoreapp3.1\notasDoSemestre.deps.json
+C:\Users\filmi\source\repos\notasDoSemestre\notasDoSemestre\bin\Debug\netcoreapp3.1\notasDoSemestre.runtimeconfig.json
+C:\Users\filmi\source\repos\notasDoSemestre\notasDoSemestre\bin\Debug\netcoreapp3.1\notasDoSemestre.runtimeconfig.dev.json
+C:\Users\filmi\source\repos\notasDoSemestre\notasDoSemestre\bin\Debug\netcoreapp3.1\notasDoSemestre.dll
+C:\Users\filmi\source\repos\notasDoSemestre\notasDoSemestre\bin\Debug\netcoreapp3.1\notasDoSemestre.pdb
+C:\Users\filmi\source\repos\notasDoSemestre\notasDoSemestre\obj\Debug\netcoreapp3.1\notasDoSemestre.csprojAssemblyReference.cache
+C:\Users\filmi\source\repos\notasDoSemestre\notasDoSemestre\obj\Debug\netcoreapp3.1\notasDoSemestre.AssemblyInfoInputs.cache
+C:\Users\filmi\source\repos\notasDoSemestre\notasDoSemestre\obj\Debug\netcoreapp3.1\notasDoSemestre.AssemblyInfo.cs
+C:\Users\filmi\source\repos\notasDoSemestre\notasDoSemestre\obj\Debug\netcoreapp3.1\notasDoSemestre.csproj.CoreCompileInputs.cache
+C:\Users\filmi\source\repos\notasDoSemestre\notasDoSemestre\obj\Debug\netcoreapp3.1\notasDoSemestre.dll
+C:\Users\filmi\source\repos\notasDoSemestre\notasDoSemestre\obj\Debug\netcoreapp3.1\notasDoSemestre.pdb
+C:\Users\filmi\source\repos\notasDoSemestre\notasDoSemestre\obj\Debug\netcoreapp3.1\notasDoSemestre.genruntimeconfig.cache

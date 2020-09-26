@@ -1,0 +1,13 @@
+C:\Users\filmi\source\repos\Uri04\Uri04\bin\Debug\netcoreapp3.1\Uri04.exe
+C:\Users\filmi\source\repos\Uri04\Uri04\bin\Debug\netcoreapp3.1\Uri04.deps.json
+C:\Users\filmi\source\repos\Uri04\Uri04\bin\Debug\netcoreapp3.1\Uri04.runtimeconfig.json
+C:\Users\filmi\source\repos\Uri04\Uri04\bin\Debug\netcoreapp3.1\Uri04.runtimeconfig.dev.json
+C:\Users\filmi\source\repos\Uri04\Uri04\bin\Debug\netcoreapp3.1\Uri04.dll
+C:\Users\filmi\source\repos\Uri04\Uri04\bin\Debug\netcoreapp3.1\Uri04.pdb
+C:\Users\filmi\source\repos\Uri04\Uri04\obj\Debug\netcoreapp3.1\Uri04.csprojAssemblyReference.cache
+C:\Users\filmi\source\repos\Uri04\Uri04\obj\Debug\netcoreapp3.1\Uri04.AssemblyInfoInputs.cache
+C:\Users\filmi\source\repos\Uri04\Uri04\obj\Debug\netcoreapp3.1\Uri04.AssemblyInfo.cs
+C:\Users\filmi\source\repos\Uri04\Uri04\obj\Debug\netcoreapp3.1\Uri04.csproj.CoreCompileInputs.cache
+C:\Users\filmi\source\repos\Uri04\Uri04\obj\Debug\netcoreapp3.1\Uri04.dll
+C:\Users\filmi\source\repos\Uri04\Uri04\obj\Debug\netcoreapp3.1\Uri04.pdb
+C:\Users\filmi\source\repos\Uri04\Uri04\obj\Debug\netcoreapp3.1\Uri04.genruntimeconfig.cache

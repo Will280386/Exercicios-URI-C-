@@ -1,0 +1,13 @@
+C:\Users\filmi\source\repos\Uri08\Uri08\bin\Debug\netcoreapp3.1\Uri08.exe
+C:\Users\filmi\source\repos\Uri08\Uri08\bin\Debug\netcoreapp3.1\Uri08.deps.json
+C:\Users\filmi\source\repos\Uri08\Uri08\bin\Debug\netcoreapp3.1\Uri08.runtimeconfig.json
+C:\Users\filmi\source\repos\Uri08\Uri08\bin\Debug\netcoreapp3.1\Uri08.runtimeconfig.dev.json
+C:\Users\filmi\source\repos\Uri08\Uri08\bin\Debug\netcoreapp3.1\Uri08.dll
+C:\Users\filmi\source\repos\Uri08\Uri08\bin\Debug\netcoreapp3.1\Uri08.pdb
+C:\Users\filmi\source\repos\Uri08\Uri08\obj\Debug\netcoreapp3.1\Uri08.csprojAssemblyReference.cache
+C:\Users\filmi\source\repos\Uri08\Uri08\obj\Debug\netcoreapp3.1\Uri08.AssemblyInfoInputs.cache
+C:\Users\filmi\source\repos\Uri08\Uri08\obj\Debug\netcoreapp3.1\Uri08.AssemblyInfo.cs
+C:\Users\filmi\source\repos\Uri08\Uri08\obj\Debug\netcoreapp3.1\Uri08.csproj.CoreCompileInputs.cache
+C:\Users\filmi\source\repos\Uri08\Uri08\obj\Debug\netcoreapp3.1\Uri08.dll
+C:\Users\filmi\source\repos\Uri08\Uri08\obj\Debug\netcoreapp3.1\Uri08.pdb
+C:\Users\filmi\source\repos\Uri08\Uri08\obj\Debug\netcoreapp3.1\Uri08.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\filmi\source\repos\mediaAritimetica\mediaAritimetica\bin\Debug\netcoreapp3.1\mediaAritimetica.exe
+C:\Users\filmi\source\repos\mediaAritimetica\mediaAritimetica\bin\Debug\netcoreapp3.1\mediaAritimetica.deps.json
+C:\Users\filmi\source\repos\mediaAritimetica\mediaAritimetica\bin\Debug\netcoreapp3.1\mediaAritimetica.runtimeconfig.json
+C:\Users\filmi\source\repos\mediaAritimetica\mediaAritimetica\bin\Debug\netcoreapp3.1\mediaAritimetica.runtimeconfig.dev.json
+C:\Users\filmi\source\repos\mediaAritimetica\mediaAritimetica\bin\Debug\netcoreapp3.1\mediaAritimetica.dll
+C:\Users\filmi\source\repos\mediaAritimetica\mediaAritimetica\bin\Debug\netcoreapp3.1\mediaAritimetica.pdb
+C:\Users\filmi\source\repos\mediaAritimetica\mediaAritimetica\obj\Debug\netcoreapp3.1\mediaAritimetica.csprojAssemblyReference.cache
+C:\Users\filmi\source\repos\mediaAritimetica\mediaAritimetica\obj\Debug\netcoreapp3.1\mediaAritimetica.AssemblyInfoInputs.cache
+C:\Users\filmi\source\repos\mediaAritimetica\mediaAritimetica\obj\Debug\netcoreapp3.1\mediaAritimetica.AssemblyInfo.cs
+C:\Users\filmi\source\repos\mediaAritimetica\mediaAritimetica\obj\Debug\netcoreapp3.1\mediaAritimetica.csproj.CoreCompileInputs.cache
+C:\Users\filmi\source\repos\mediaAritimetica\mediaAritimetica\obj\Debug\netcoreapp3.1\mediaAritimetica.dll
+C:\Users\filmi\source\repos\mediaAritimetica\mediaAritimetica\obj\Debug\netcoreapp3.1\mediaAritimetica.pdb
+C:\Users\filmi\source\repos\mediaAritimetica\mediaAritimetica\obj\Debug\netcoreapp3.1\mediaAritimetica.genruntimeconfig.cache

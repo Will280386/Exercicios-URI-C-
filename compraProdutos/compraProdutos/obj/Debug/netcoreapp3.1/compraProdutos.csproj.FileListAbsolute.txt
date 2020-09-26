@@ -1,0 +1,13 @@
+C:\Users\filmi\source\repos\compraProdutos\compraProdutos\bin\Debug\netcoreapp3.1\compraProdutos.exe
+C:\Users\filmi\source\repos\compraProdutos\compraProdutos\bin\Debug\netcoreapp3.1\compraProdutos.deps.json
+C:\Users\filmi\source\repos\compraProdutos\compraProdutos\bin\Debug\netcoreapp3.1\compraProdutos.runtimeconfig.json
+C:\Users\filmi\source\repos\compraProdutos\compraProdutos\bin\Debug\netcoreapp3.1\compraProdutos.runtimeconfig.dev.json
+C:\Users\filmi\source\repos\compraProdutos\compraProdutos\bin\Debug\netcoreapp3.1\compraProdutos.dll
+C:\Users\filmi\source\repos\compraProdutos\compraProdutos\bin\Debug\netcoreapp3.1\compraProdutos.pdb
+C:\Users\filmi\source\repos\compraProdutos\compraProdutos\obj\Debug\netcoreapp3.1\compraProdutos.csprojAssemblyReference.cache
+C:\Users\filmi\source\repos\compraProdutos\compraProdutos\obj\Debug\netcoreapp3.1\compraProdutos.AssemblyInfoInputs.cache
+C:\Users\filmi\source\repos\compraProdutos\compraProdutos\obj\Debug\netcoreapp3.1\compraProdutos.AssemblyInfo.cs
+C:\Users\filmi\source\repos\compraProdutos\compraProdutos\obj\Debug\netcoreapp3.1\compraProdutos.csproj.CoreCompileInputs.cache
+C:\Users\filmi\source\repos\compraProdutos\compraProdutos\obj\Debug\netcoreapp3.1\compraProdutos.dll
+C:\Users\filmi\source\repos\compraProdutos\compraProdutos\obj\Debug\netcoreapp3.1\compraProdutos.pdb
+C:\Users\filmi\source\repos\compraProdutos\compraProdutos\obj\Debug\netcoreapp3.1\compraProdutos.genruntimeconfig.cache
